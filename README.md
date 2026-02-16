@@ -3,7 +3,7 @@ Code and data library for paper,
 
 Design optimization of geometrically confined cardiac organoids enabled by machine learning techniques
 
-Kowalczewski, Andrew et al.
+Kowalczewski, Andrew et al.  Maintained by  Andy for STEMa Group
 
 Cell Reports Methods, Volume 4, Issue 6, 100798
 
